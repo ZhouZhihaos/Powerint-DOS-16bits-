@@ -12,17 +12,16 @@ A：把软盘挂空，重新启动虚拟机。
 Q4：怎么使用Powerint DOS？
 A：有DOS基础就不成问题。没DOS基础但会看代码的，去看代码。啥也不会就自己上网查查DOS基础。
 
-Welcome use Powerint DOS!
-For help you use better,this helper can answer some question.
-Q1:How can install Powerint DOS?
-A:Create a new vmware pc(can't use Bochs or Qemu old version),floppy image use in directory"outfile" index.img,
-create a new hard disk(can't >1GB).Restart vm,into setup program,and it's done.
-(Can't use "Customize Install",it will fail)
-Q2:How can input past key?
-A:OEMXX-K08v5-e4C2h-jbCBa-SETUP
-or OEMXX-11111-11111-11111-SETUP
-Q3:Past setup done,how can I do?
-A:Take out floppy image ,and restart vm.
-Q4:How is Powerint DOS usage?
-A:If you have DOS usage,it's no a problem.Haven't?You must see code.Haven't too?You can goto Web.
- 
+Welcome to Powerint DOS!
+For ease of use, the following steps can answer some questions.
+Q1: How do I install Powerint DOS?
+A: Virtual machine (recommended VMware, can not use Bochs or old version Qemu) floppy disk image file select the directory outfile index.img,
+Add a new hard drive (up to 1GB). Then start the virtual machine and follow the steps prompted by the installer step by step.
+(Note: You can only select all installations when installing, otherwise it will fail)
+Q2: How do I enter the installation key?
+A：OEMXX-K08V5-e4C2h-jbCBa-SETUP
+OEMXX-11111-11111-11111-SETUP
+Q3: What should I do after installation?
+A: Hang the floppy disk empty and restart the virtual machine.
+Q4: How to use Powerint DOS?
+A: With a DOS foundation, it is not a problem. Those who don't have a DOS foundation but will look at the code, go to the code. I don't just check the doss basics on the Internet yourself.
